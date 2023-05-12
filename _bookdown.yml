@@ -3,9 +3,9 @@ output_dir: docs
 delete_merged_file: true
 tables: yes
 rmd_files: ["index.Rmd", 
-           "References/Packages.Rmd",
-           "References/Glossary.Rmd",
-           "References/PdfOutput.Rmd",
+           "references/Packages.Rmd",
+           "references/Glossary.Rmd",
+           "references/PdfOutput.Rmd",
            "chapters/00-Preface.Rmd",
            "chapters/01-Chapter1.Rmd",
            "chapters/02-Chapter2.Rmd",
