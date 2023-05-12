@@ -6,21 +6,18 @@ rmd_files: ["index.Rmd",
            "References/Packages.Rmd",
            "References/Glossary.Rmd",
            "References/PdfOutput.Rmd",
-           "chapters/01-intro.Rmd",
-           "chapters/02-literature.Rmd",
-           "chapters/03-method.Rmd",
-           "chapters/04-application.Rmd",
-           "chapters/05-summary.Rmd",
-           "chapters/06-references.Rmd"
+           "chapters/00-Preface.Rmd",
+           "chapters/01-Introduction.Rmd",
+           "chapters/02-Frequency.Rmd",
+           "chapters/03-LossSeverity.Rmd",
+           "chapters/04-ModelSelection.Rmd",
+           "chapters/05-AggregateLossModels.Rmd"
           ]
 
+language:
+  ui:
+    chapter_name: "Bab"
 
-           # "chapters/Preface.Rmd", 
-           # "chapters/Introduction.Rmd", 
-           # "chapters/Frequency.Rmd",
-           # "chapters/LossSeverity.Rmd", 
-           # "chapters/ModelSelection.Rmd",
-           # "chapters/AggregateLossModels.Rmd",
            # "chapters/SimulationNoKableExtra.Rmd", 
            # "chapters/PremiumFoundations.Rmd",
            # "chapters/RiskClassification.Rmd",

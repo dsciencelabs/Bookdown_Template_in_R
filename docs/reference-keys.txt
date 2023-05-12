@@ -1,9 +1,5 @@
-fig:nice-fig
-tab:nice-tab
-intro
-literature
-methods
+introduction-to-loss-data-analytics
+frequency-modeling
+modeling-loss-severity
 model-selection-and-estimation
-example-one
-example-two
-final-words
+aggregate-loss-models
