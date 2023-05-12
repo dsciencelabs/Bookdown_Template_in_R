@@ -1,5 +1,39 @@
 book_filename: "Analisa_Resiko"
-language:
-  ui:
-    chapter_name: "Chapter "
+output_dir: docs
 delete_merged_file: true
+tables: yes
+rmd_files: ["index.Rmd", 
+           "References/Packages.Rmd",
+           "References/Glossary.Rmd",
+           "References/PdfOutput.Rmd",
+           "chapters/01-intro.Rmd",
+           "chapters/02-literature.Rmd",
+           "chapters/03-method.Rmd",
+           "chapters/04-application.Rmd",
+           "chapters/05-summary.Rmd",
+           "chapters/06-references.Rmd"
+          ]
+
+
+           # "chapters/Preface.Rmd", 
+           # "chapters/Introduction.Rmd", 
+           # "chapters/Frequency.Rmd",
+           # "chapters/LossSeverity.Rmd", 
+           # "chapters/ModelSelection.Rmd",
+           # "chapters/AggregateLossModels.Rmd",
+           # "chapters/SimulationNoKableExtra.Rmd", 
+           # "chapters/PremiumFoundations.Rmd",
+           # "chapters/RiskClassification.Rmd",
+           # "chapters/Credibility.Rmd",
+           # "chapters/PortfolioMgt.Rmd",
+           # "chapters/LossReserves.Rmd",
+           # "chapters/ExpRatingBonusMalus.Rmd",
+           # "chapters/DataSystems.Rmd",
+           # "chapters/DependenceModels.Rmd",
+           # "chapters/ReviewStatInference.Rmd", 
+           # "chapters/IteratedExpectations.Rmd", 
+           # "chapters/MaximumLikeTheory.Rmd", 
+           # "chapters/DistributionTable.Rmd",
+           # "chapters/NotationConventions.Rmd",
+           # "chapters/PdfGlossary.Rmd",
+           # "chapters/Bibliography.Rmd"

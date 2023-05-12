@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: ["References/LDAReference2020A.bib"]
+bibliography: ["references/LDAReference2020A.bib"]
 biblio-style: econPeriod
 link-citations: yes
 github-repo: dsciencelabs/Bookdown-Tempalate_R
