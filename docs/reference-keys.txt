@@ -1,0 +1,9 @@
+fig:nice-fig
+tab:nice-tab
+intro
+literature
+methods
+model-selection-and-estimation
+example-one
+example-two
+final-words
