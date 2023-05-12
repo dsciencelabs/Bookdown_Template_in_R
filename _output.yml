@@ -8,8 +8,8 @@ bookdown::gitbook:
       before: |
         <li><center><img src="images/Logo.png" alt="logo" width="50%" height="50%"style="margin: 15px 0 0 0"></center></li>
       after: |
-        <li><a href="https://github.com/dsciencelabs/Teori_Analisa_Risiko" target="blank">Published with Bookdown</a></li>
-    edit: https://github.com/dsciencelabs/Teori_Analisa_Risiko/edit/master/%s
+        <li><a href="https://github.com/dsciencelabs/Analisa_Risiko" target="blank">Published with Bookdown</a></li>
+    edit: https://github.com/dsciencelabs/Analisa_Risiko/edit/master/%s
     download: null
     sharing:
       github: yes
